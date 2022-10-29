@@ -83,3 +83,7 @@ check what's on the staging area
 ### git commit
 
 will get you to some ui where you will type insert and then remove comment of initial commit command and then press esc to remove from the insert mode and then type :wq press enter your staging stuff will be commited
+
+# OR
+
+### git commit -m 'message of choice';
