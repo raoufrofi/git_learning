@@ -87,3 +87,11 @@ will get you to some ui where you will type insert and then remove comment of in
 # OR
 
 ### git commit -m 'message of choice';
+
+## CREATING BRANCH
+
+### git branch branchname
+
+### git checkout branchname
+
+take you to that branch
