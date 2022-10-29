@@ -95,3 +95,7 @@ will get you to some ui where you will type insert and then remove comment of in
 ### git checkout branchname
 
 take you to that branch
+
+# Pusing To Repo
+
+## git push -u origin branchname
